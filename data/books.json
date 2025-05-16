@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Build",
+    "author": "Tony Fadell",
+    "description": "Build is a practical guide to startups and product creation, offering lessons from Tony Fadell's experience building the iPod, iPhone, and Nest. It's packed with no-nonsense advice for makers, leaders, and entrepreneurs.",
+    "image": "build.png"
+  },
+  {
+    "id": 2,
+    "title": "Lean Startup",
+    "author": "Eric Ries",
+    "description": "The Lean Startup teaches entrepreneurs how to build and scale startups efficiently by using continuous innovation, rapid experimentation, and customer feedback.",
+    "image": "lean-startup.png"
+  },
+  {
+    "id": 3,
+    "title": "No Rules Rules",
+    "author": "Reed Hastings and Erin Meyer",
+    "description": "No Rules Rules explores the bold leadership and unconventional culture that helped Netflix innovate and scale, offering lessons on trust, candor, and freedom in the workplace.",
+    "image": "no-rules-rules.png"
+  },
+  {
+    "id": 4,
+    "title": "The Hard Things About Hard Things",
+    "author": "Ben Horowitz",
+    "description": "The Hard Thing About Hard Things offers raw, honest advice on building and leading startups, tackling the tough decisions founders face that rarely have easy answers.",
+    "image": "the-hard-things-about-hard-things.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Amp It Up",
+    "author": "Frank Slootman",
+    "description": "Amp It Up shares leadership lessons and growth strategies from Frank Slootman's experience scaling Snowflake into a tech powerhouse, focusing on raising standards, speed, and execution to drive extraordinary success.",
+    "image": "amp-it-up.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Zero to One",
+    "author": "Peter Thiel",
+    "description": "Zero to One offers insights on building innovative startups that create entirely new value, emphasizing the importance of unique ideas and bold thinking to go from nothing to something truly groundbreaking.",
+    "image": "zero-to-one.jpg"
+  },
+  {
+    "id": 7,
+    "title": "The Coming Wave",
+    "author": "Mustafa Suleyman",
+    "description": "The Coming Wave explores the next frontier of technology, diving into how AI and other breakthroughs will reshape industries, economies, and society—and what it means for the future.",
+    "image": "the-coming-wave.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Supremacy",
+    "author": "Parmy Olson",
+    "description": "Supremacy dives into the global race to control AI technology like ChatGPT, exploring how this competition will transform economies, power structures, and the future of humanity.",
+    "image": "supremacy.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Working Backwards",
+    "author": "Colin Bryar and Bill Carr",
+    "description": "Working Backwards reveals Amazon's unique leadership principles and practices through insider stories, showing how the company's customer-focused culture drives innovation and success.",
+    "image": "working-backwards.jpg"
+  }
+]
