@@ -1,4 +1,5 @@
 import { GeistSans } from "geist/font/sans"
+import { Analytics } from "@vercel/analytics/next"
 
 export const metadata = {
   title: "Booksp",
@@ -8,7 +9,10 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className={GeistSans.className}>
-      <body>{children}</body>
+      <body>
+        {children}
+        <Analytics />
+      </body>
     </html>
   )
 }
