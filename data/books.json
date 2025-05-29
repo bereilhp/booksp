@@ -61,5 +61,26 @@
     "author": "Colin Bryar and Bill Carr",
     "description": "Working Backwards reveals Amazon's unique leadership principles and practices through insider stories, showing how the company's customer-focused culture drives innovation and success.",
     "image": "working-backwards.jpg"
+  },
+  {
+    "id": 10,
+    "title": "The Mom Test",
+    "author": "Rob Fitzpatrick",
+    "description": "The Mom Test teaches entrepreneurs how to talk to customers and validate startup ideas without getting misled by compliments or vague feedback, using practical and actionable techniques.",
+    "image": "the-mom-test.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Hidden Potential",
+    "author": "Adam Grant",
+    "description": "Hidden Potential explores how people can achieve greatness not by starting with natural talent, but by embracing the power of character, motivation, and opportunity to unlock their full capacity.",
+    "image": "hidden-potential.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "description": "Based on over forty interviews with Steve Jobs and hundreds with family, friends, and colleagues, this biography offers a deeply detailed look at the passionate, creative, and sometimes volatile life of Apple's visionary co-founder.",
+    "image": "steve-jobs.jpg"
   }
 ]
