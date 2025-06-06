@@ -82,5 +82,26 @@
     "author": "Walter Isaacson",
     "description": "Based on over forty interviews with Steve Jobs and hundreds with family, friends, and colleagues, this biography offers a deeply detailed look at the passionate, creative, and sometimes volatile life of Apple's visionary co-founder.",
     "image": "steve-jobs.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Bloomberg by Bloomberg",
+    "author": "Michael R. Bloomberg",
+    "description": "An autobiography of Michael Bloomberg, detailing his journey from Salomon Brothers to founding Bloomberg L.P., and serving as the mayor of New York City, offering insights on leadership, innovation, and entrepreneurship.",
+    "image": "bloomberg.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "description": "A guide to building good habits and breaking bad ones through small, consistent changes. James Clear presents a practical framework backed by scientific research and real-life examples to help you improve every day.",
+    "image": "atomic-habits.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Founders at Work",
+    "author": "Jessica Livingston",
+    "description": "A collection of interviews with founders of famous tech startups, offering an intimate look at their early challenges, strategies, and lessons learned during the journey of building successful companies.",
+    "image": "founders-at-work.jpg"
   }
 ]
