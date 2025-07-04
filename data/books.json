@@ -98,10 +98,66 @@
     "image": "atomic-habits.jpg"
   },
   {
-    "id": 16,
-    "title": "Founders at Work",
-    "author": "Jessica Livingston",
-    "description": "A collection of interviews with founders of famous tech startups, offering an intimate look at their early challenges, strategies, and lessons learned during the journey of building successful companies.",
-    "image": "founders-at-work.jpg"
+    "id": 17,
+    "title": "Super Pumped",
+    "author": "Mike Isaac",
+    "description": "An explosive chronicle of Uber's meteoric rise and chaotic culture, revealing the ambition, recklessness, and power struggles that defined one of Silicon Valley's most controversial startups.",
+    "image": "super-pumped.jpg"
+  },
+  {
+    "id": 18,
+    "title": "The Innovator's Dilemma",
+    "author": "Clayton M. Christensen",
+    "description": "A groundbreaking analysis of why successful companies often fail to innovate, showing how disruptive technologies can overturn industry leaders and how businesses can adapt before it's too late.",
+    "image": "the-innovators-dilemma.jpg"
+  },
+  {
+    "id": 19,
+    "title": "AI 2041",
+    "author": "Kai-Fu Lee and Chen Qiufan",
+    "description": "A visionary blend of science fiction and analysis that explores how AI will reshape our world over the next 20 years, told through ten thought-provoking stories paired with expert insights.",
+    "image": "ai-2041.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Ready Player One",
+    "author": "Ernest Cline",
+    "description": "A fast-paced sci-fi adventure set in a dystopian future where a teenager competes in a virtual reality treasure hunt, blending 80s pop culture, gaming, and a fight for control over a digital universe.",
+    "image": "ready-player-one.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Ready Player Two",
+    "author": "Ernest Cline",
+    "description": "The sequel to Ready Player One continues the virtual odyssey as new technology unlocks deeper immersion—and greater danger—in the OASIS, forcing Wade Watts to face fresh puzzles, threats, and ethical dilemmas.",
+    "image": "ready-player-two.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Think Again",
+    "author": "Adam Grant",
+    "description": "A compelling guide to rethinking assumptions and embracing mental flexibility, encouraging individuals and organizations to value curiosity, humility, and the power of changing your mind.",
+    "image": "think-again.jpg"
+  },
+  {
+    "id": 23,
+    "title": "How to Live",
+    "author": "Derek Sivers",
+    "description": "A philosophical yet practical collection of 27 unconventional life approaches, offering clarity and insight into how to live deliberately, based on the author's personal reflections and minimalist thinking.",
+    "image": "how-to-live.jpg"
+  },
+  {
+    "id": 24,
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "description": "A wildly imaginative and hilariously absurd sci-fi classic that follows Arthur Dent's adventures through space after Earth's destruction, blending satire, wit, and cosmic nonsense in a cult-favorite journey.",
+    "image": "the-hitchhikers-guide-to-the-galaxy.jpg"
+  },
+  {
+    "id": 25,
+    "title": "The Technological Republic",
+    "author": "John Lanchester",
+    "description": "A thought-provoking exploration of how digital technologies are reshaping modern society, politics, and individual freedoms, challenging readers to consider the costs of convenience in a data-driven world.",
+    "image": "the-technological-republic.jpg"
   }
 ]
