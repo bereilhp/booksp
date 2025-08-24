@@ -4,6 +4,7 @@ import styles from "./BookCard.module.css"
 const BookCard = ({ title, author, description, image }) => {
   return (
     <div className={styles.card}>
+      
       <div className={styles.imageContainer}>
         <Image
           src={`/images/${image}`}

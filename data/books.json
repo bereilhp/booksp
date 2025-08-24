@@ -94,70 +94,147 @@
     "id": 15,
     "title": "Atomic Habits",
     "author": "James Clear",
-    "description": "A guide to building good habits and breaking bad ones through small, consistent changes. James Clear presents a practical framework backed by scientific research and real-life examples to help you improve every day.",
+    "description": "Atomic Habits is a guide to building good habits and breaking bad ones through small, consistent changes. James Clear presents a practical framework backed by scientific research and real-life examples to help you improve every day.",
     "image": "atomic-habits.jpg"
   },
   {
     "id": 17,
     "title": "Super Pumped",
     "author": "Mike Isaac",
-    "description": "An explosive chronicle of Uber's meteoric rise and chaotic culture, revealing the ambition, recklessness, and power struggles that defined one of Silicon Valley's most controversial startups.",
+    "description": "Super Pumped is an explosive chronicle of Uber's meteoric rise and chaotic culture, revealing the ambition, recklessness, and power struggles that defined one of Silicon Valley's most controversial startups.",
     "image": "super-pumped.jpg"
   },
   {
     "id": 18,
     "title": "The Innovator's Dilemma",
     "author": "Clayton M. Christensen",
-    "description": "A groundbreaking analysis of why successful companies often fail to innovate, showing how disruptive technologies can overturn industry leaders and how businesses can adapt before it's too late.",
+    "description": "The Innovator's Dilemma is a groundbreaking analysis of why successful companies often fail to innovate, showing how disruptive technologies can overturn industry leaders and how businesses can adapt before it's too late.",
     "image": "the-innovators-dilemma.jpg"
   },
   {
     "id": 19,
     "title": "AI 2041",
     "author": "Kai-Fu Lee and Chen Qiufan",
-    "description": "A visionary blend of science fiction and analysis that explores how AI will reshape our world over the next 20 years, told through ten thought-provoking stories paired with expert insights.",
+    "description": "AI 2041 is a visionary blend of science fiction and analysis that explores how AI will reshape our world over the next 20 years, told through ten thought-provoking stories paired with expert insights.",
     "image": "ai-2041.jpg"
   },
   {
     "id": 20,
     "title": "Ready Player One",
     "author": "Ernest Cline",
-    "description": "A fast-paced sci-fi adventure set in a dystopian future where a teenager competes in a virtual reality treasure hunt, blending 80s pop culture, gaming, and a fight for control over a digital universe.",
+    "description": "Ready Player One is a fast-paced sci-fi adventure set in a dystopian future where a teenager competes in a virtual reality treasure hunt, blending 80s pop culture, gaming, and a fight for control over a digital universe.",
     "image": "ready-player-one.jpg"
   },
   {
     "id": 21,
     "title": "Ready Player Two",
     "author": "Ernest Cline",
-    "description": "The sequel to Ready Player One continues the virtual odyssey as new technology unlocks deeper immersion—and greater danger—in the OASIS, forcing Wade Watts to face fresh puzzles, threats, and ethical dilemmas.",
+    "description": "Ready Player Two is the sequel to Ready Player One which continues the virtual odyssey as new technology unlocks deeper immersion—and greater danger—in the OASIS, forcing Wade Watts to face fresh puzzles, threats, and ethical dilemmas.",
     "image": "ready-player-two.jpg"
   },
   {
     "id": 22,
     "title": "Think Again",
     "author": "Adam Grant",
-    "description": "A compelling guide to rethinking assumptions and embracing mental flexibility, encouraging individuals and organizations to value curiosity, humility, and the power of changing your mind.",
+    "description": "Think again is a compelling guide to rethinking assumptions and embracing mental flexibility, encouraging individuals and organizations to value curiosity, humility, and the power of changing your mind.",
     "image": "think-again.jpg"
   },
   {
     "id": 23,
     "title": "How to Live",
     "author": "Derek Sivers",
-    "description": "A philosophical yet practical collection of 27 unconventional life approaches, offering clarity and insight into how to live deliberately, based on the author's personal reflections and minimalist thinking.",
+    "description": "How to Live is a philosophical yet practical collection of 27 unconventional life approaches, offering clarity and insight into how to live deliberately, based on the author's personal reflections and minimalist thinking.",
     "image": "how-to-live.jpg"
   },
   {
     "id": 24,
     "title": "The Hitchhiker's Guide to the Galaxy",
     "author": "Douglas Adams",
-    "description": "A wildly imaginative and hilariously absurd sci-fi classic that follows Arthur Dent's adventures through space after Earth's destruction, blending satire, wit, and cosmic nonsense in a cult-favorite journey.",
+    "description": "The Hitchhiker's Guide to the Galaxy is a wildly imaginative and hilariously absurd sci-fi classic that follows Arthur Dent's adventures through space after Earth's destruction, blending satire, wit, and cosmic nonsense in a cult-favorite journey.",
     "image": "the-hitchhikers-guide-to-the-galaxy.jpg"
   },
   {
     "id": 25,
     "title": "The Technological Republic",
     "author": "Alexander C. Karp and Nicholas W. Zamiska",
-    "description": "A thought-provoking exploration of how digital technologies are reshaping modern society, politics, and individual freedoms, challenging readers to consider the costs of convenience in a data-driven world.",
+    "description": "The Technological Republic is a thought-provoking exploration of how digital technologies are reshaping modern society, politics, and individual freedoms, challenging readers to consider the costs of convenience in a data-driven world.",
     "image": "the-technological-republic.jpg"
+  },
+  {
+    "id": 26,
+    "title": "That Will Never Work",
+    "author": "Marc Randolph",
+    "description": "That Will Never Work is the inspiring story of Netflix's co-founder, Marc Randolph, and how he turned a simple idea into a global streaming powerhouse while navigating skepticism and setbacks.",
+    "image": "that-will-never-work.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Hackers: Heroes of the Computer Revolution",
+    "author": "Steven Levy",
+    "description": "Hackers: Heroes of the Computer Revolution is a definitive account of the early days of computing, exploring the fascinating subculture of hackers who shaped the digital world and revolutionized technology.",
+    "image": "hackers-heroes-of-the-computer-revolution.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Doom Guy: Life in First Person",
+    "author": "John Romero",
+    "description": "Doom Guy: Life in First Person is a book about legendary game developer John Romero recounts his journey from humble beginnings to co-creating the groundbreaking video game DOOM, offering a personal look into the gaming industry's early days.",
+    "image": "doom-guy-life-in-first-person.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture",
+    "author": "David Kushner",
+    "description": "Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture is the captivating story of John Carmack and John Romero, the masterminds behind DOOM and Quake, and how their friendship and rivalry reshaped the gaming industry forever.",
+    "image": "masters-of-doom.jpg"
+  },
+  {
+    "id": 30,
+    "title": "Play Nice: The Rise, Fall, and Future of Blizzard Entertainment",
+    "author": "Jason Schreier",
+    "description": "Play Nice: The Rise, Fall, and Future of Blizzard Entertainment is an inside look at the history of Blizzard Entertainment, chronicling its meteoric rise, internal struggles, and the uncertain future of one of gaming's most iconic studios.",
+    "image": "play-nice-blizzard-entertainment.jpg"
+  },
+  {
+    "id": 31,
+    "title": "Elon Musk",
+    "author": "Walter Isaacson",
+    "description": "A comprehensive biography of Elon Musk, revealing his visionary drive, controversial leadership, and the relentless pursuit of innovation across multiple industries.",
+    "image": "elon-musk.jpg"
+  },
+  {
+    "id": 32,
+    "title": "Play Nice But Win: A CEO's Journey from Founder to Leader",
+    "author": "Michael Dell",
+    "description": "Play Nice But Win: A CEO's Journey from Founder to Leader offers an inside look at Michael Dell's remarkable journey — from founding Dell Technologies in his college dorm room to transforming it into a global powerhouse. The book provides valuable insights on leadership, resilience, and innovation, revealing the strategies and mindset that fueled his success",
+    "image": "play-nice-but-win.jpg"
+  },
+  {
+    "id": 33,
+    "title": "Rework",
+    "author": "Jason Fried and David Heinemeier Hansson",
+    "description": "Rework is a no-nonsense business book that challenges conventional wisdom, offering bold and unconventional advice for building successful companies and products.",
+    "image": "rework.jpg"
+  },
+  {
+    "id": 34,
+    "title": "Crossing the Chasm",
+    "author": "Geoffrey A. Moore",
+    "description": "Crossing the Chasm is a marketing classic that explains how innovative products can successfully transition from early adopters to mainstream markets, essential for startups and tech companies.",
+    "image": "crossing-the-chasm.jpg"
+  },
+  {
+    "id": 35,
+    "title": "Positioning: The Battle for Your Mind",
+    "author": "Al Ries and Jack Trout",
+    "description": "Positioning: The Battle for Your Mind is a groundbreaking book on marketing strategy, introducing the concept of positioning and how to stand out in a crowded marketplace.",
+    "image": "positioning-the-battle-for-your-mind.jpg"
+  },
+  {
+    "id": 36,
+    "title": "The Empathy Edge",
+    "author": "Maria Ross",
+    "description": "The Empathy Edge is an insightful guide on how empathy can be a competitive advantage in business, fostering innovation, loyalty, and long-term success.",
+    "image": "the-empathy-edge.jpg"
   }
 ]
