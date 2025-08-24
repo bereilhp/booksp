@@ -1,5 +1,6 @@
 import { GeistSans } from "geist/font/sans"
 import { Analytics } from "@vercel/analytics/next"
+import "./global.css";
 
 export const metadata = {
   title: "Booksp",
