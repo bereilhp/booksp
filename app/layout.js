@@ -1,5 +1,6 @@
 import { GeistSans } from "geist/font/sans"
 import { Analytics } from "@vercel/analytics/next"
+import { AxiomWebVitals } from 'next-axiom';
 import "./global.css";
 
 export const metadata = {
@@ -12,6 +13,7 @@ export default function RootLayout({ children }) {
     <html lang="en" className={GeistSans.className}>
       <body>
         {children}
+        <AxiomWebVitals />
         <Analytics />
       </body>
     </html>
