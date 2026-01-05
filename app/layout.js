@@ -13,8 +13,8 @@ export default function RootLayout({ children }) {
     <html lang="en" className={GeistSans.className}>
       <body>
         {children}
-        <AxiomWebVitals />
         <Analytics />
+        <AxiomWebVitals />
       </body>
     </html>
   )
