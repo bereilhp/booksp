@@ -236,5 +236,47 @@
     "author": "Maria Ross",
     "description": "The Empathy Edge is an insightful guide on how empathy can be a competitive advantage in business, fostering innovation, loyalty, and long-term success.",
     "image": "the-empathy-edge.jpg"
+  },
+  {
+    "id": 37,
+    "title": "Flash Boys",
+    "author": "Michael Lewis",
+    "description": "Flash Boys is a gripping look at high-frequency trading and the people who exposed how speed, technology, and hidden market structures reshaped Wall Street.",
+    "image": "flash-boys.jpg"
+  },
+  {
+    "id": 38,
+    "title": "The Man Who Solved the Market",
+    "author": "Gregory Zuckerman",
+    "description": "The Man Who Solved the Market tells the story of Jim Simons and Renaissance Technologies, revealing how math, data, and discipline built one of history's greatest investing machines.",
+    "image": "the-man-who-solved-the-market.jpg"
+  },
+  {
+    "id": 39,
+    "title": "The Four",
+    "author": "Scott Galloway",
+    "description": "The Four examines Amazon, Apple, Facebook, and Google, explaining how these tech giants gained extraordinary power and changed business, culture, and daily life.",
+    "image": "the-four.jpg"
+  },
+  {
+    "id": 40,
+    "title": "Breaking Twitter",
+    "author": "Ben Mezrich",
+    "description": "Breaking Twitter is a fast-moving account of Elon Musk's takeover of Twitter, capturing the ambition, chaos, and power struggles behind one of tech's most dramatic deals.",
+    "image": "breaking-twitter.jpg"
+  },
+  {
+    "id": 41,
+    "title": "Apple in China",
+    "author": "Patrick McGee",
+    "description": "Apple in China explores how Apple built its manufacturing empire in China, showing the business decisions, partnerships, and tradeoffs behind the iPhone's global success.",
+    "image": "apple-in-china.jpg"
+  },
+  {
+    "id": 42,
+    "title": "The Thinking Machine",
+    "author": "Stephen Witt",
+    "description": "The Thinking Machine is a biography of Jensen Huang and Nvidia, tracing how GPUs, bold bets, and relentless execution helped power the modern AI boom.",
+    "image": "the-thinking-machine.jpg"
   }
 ]

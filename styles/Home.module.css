@@ -24,10 +24,55 @@
 .description {
   text-align: center;
   margin-top: 1rem;
-  margin-bottom: 2rem;
+  margin-bottom: 0.5rem;
   line-height: 1.5;
   font-size: 1.25rem;
   color: #7f8c8d;
+}
+
+.lastUpdated {
+  text-align: center;
+  margin: 0;
+  line-height: 1.4;
+  font-size: 0.9rem;
+  color: #95a5a6;
+}
+
+.meta {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  margin-bottom: 2rem;
+  color: #95a5a6;
+}
+
+.githubLink {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  color: #2c3e50;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  text-decoration: none;
+}
+
+.githubLink:hover {
+  text-decoration: underline;
+}
+
+.githubIcon {
+  width: 1rem;
+  height: 1rem;
+  flex: 0 0 auto;
+  fill: currentColor;
+}
+
+@media (max-width: 480px) {
+  .meta {
+    flex-direction: column;
+    gap: 0.35rem;
+  }
 }
 
 .footer {
