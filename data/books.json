@@ -278,5 +278,26 @@
     "author": "Stephen Witt",
     "description": "The Thinking Machine is a biography of Jensen Huang and Nvidia, tracing how GPUs, bold bets, and relentless execution helped power the modern AI boom.",
     "image": "the-thinking-machine.jpg"
+  },
+  {
+    "id": 43,
+    "title": "Ogilvy on Advertising",
+    "author": "David Ogilvy",
+    "description": "Ogilvy on Advertising shares David Ogilvy's practical advice on creating effective advertising, from understanding customers and writing strong copy to building memorable campaigns.",
+    "image": "ogilvy-on-advertising.jpg"
+  },
+  {
+    "id": 44,
+    "title": "No Filter: The Inside Story of Instagram",
+    "author": "Sarah Frier",
+    "description": "No Filter tells the story of Instagram's rise, its founders, and its acquisition by Facebook, examining how the platform reshaped social media, business, and online culture.",
+    "image": "no-filer.jpg"
+  },
+  {
+    "id": 45,
+    "title": "Shoe Dog: A Memoir by the Creator of Nike",
+    "author": "Phil Knight",
+    "description": "Shoe Dog is Phil Knight's memoir about building Nike, following the company's uncertain early years, the people who joined him, and the risks behind its rise into a global brand.",
+    "image": "shoe-dog.jpg"
   }
 ]
