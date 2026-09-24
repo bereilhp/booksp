@@ -11,7 +11,7 @@ export default function Home() {
           Books worth reading, chosen with care.
         </p>
         <div className={styles.meta}>
-          <p className={styles.lastUpdated}>Last updated June 15, 2026</p>
+          <p className={styles.lastUpdated}>Last updated September 23, 2026</p>
           <a
             className={styles.githubLink}
             href="https://github.com/bereilhp/booksp"
