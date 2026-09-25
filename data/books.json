@@ -299,5 +299,12 @@
     "author": "Phil Knight",
     "description": "Shoe Dog is Phil Knight's memoir about building Nike, following the company's uncertain early years, the people who joined him, and the risks behind its rise into a global brand.",
     "image": "shoe-dog.jpg"
+  },
+  {
+    "id": 46,
+    "title": "Inference Engineering",
+    "author": "Philip Kiely",
+    "description": "Inference Engineering explores the systems and techniques behind serving machine learning models efficiently and reliably in production.",
+    "image": "engineering-inference.jpg"
   }
 ]
