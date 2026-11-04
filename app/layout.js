@@ -1,11 +1,11 @@
 import { GeistSans } from "geist/font/sans"
 import { Analytics } from "@vercel/analytics/next"
-import { AxiomWebVitals } from 'next-axiom';
-import "./global.css";
+import { AxiomWebVitals } from "next-axiom"
+import "./global.css"
 
 export const metadata = {
   title: "Booksp",
-  description: "Book recomendations",
+  description: "Book recommendations",
 }
 
 export default function RootLayout({ children }) {
